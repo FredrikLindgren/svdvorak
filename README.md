@@ -6,6 +6,8 @@ This Svdvorak layout is available either with or without remapped virtual keys (
 
 Visual descriptions of the layout are available in the images folder. Note that you cannot see the virtual keys.
 
+The file CapsLockToControl.reg will modify the Windows registry to change Caps Lock into another Control.
+
 Installers are available under Releases. They have been tested with Windows 7 and Windows 10.
 
 ## Compatibility
