@@ -2,7 +2,7 @@
 
 Svdvorak is a Dvorak keyboard layout adapted for the Swedish alphabet, originally by Gunnar Parment. Microsoft Windows lacks anything but the original Dvorak layout. This particular implementation is for Windows and embellishes the layout with some commonly used symbols (parentheses etc.) under the left hand in combination with AltGr, as found in the Svdvorak layout available through the X Window System (at least, I think it's through X). Note that this implementation does not strive to emulate the X layout.
 
-This Svdvorak layout is available either with or without remapped virtual keys (VK). The difference is that with remapped virtual keys, Ctrl-C, for instance, uses the Svdovak position for C, while the implementation without remapped virtual keys uses the QWERTY position for C.
+This Svdvorak layout is available either with or without remapped virtual keys (VK). The difference is that with remapped virtual keys, Ctrl-C, for instance, uses the Svdvorak position for C, while the implementation without remapped virtual keys uses the QWERTY position for C.
 
 Visual descriptions of the layout are available in the images folder. Note that you cannot see the virtual keys.
 
